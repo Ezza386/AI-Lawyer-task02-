@@ -1,0 +1,36 @@
+.p-redcolor{
+    color: red;
+               }
+               
+   .p-bluecolor{
+       color: blue;
+               }
+       *{
+           
+           font-size: 30px;
+          
+       }
+       body{
+           font-size: 36px;
+           font-family: times;
+           display: flex;
+           flex-direction: column;
+           
+
+       }
+       div#root{
+           width:400px;
+           height: 1700px;
+           display: none;
+           color:black;
+          
+           padding: 30px;
+          
+       }
+       button{
+           font-size: 30px;
+           height: 50px;
+           width: fit-content;
+           
+           font-family: times;
+       }
